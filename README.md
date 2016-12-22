@@ -1,7 +1,10 @@
-[![](https://images.microbadger.com/badges/version/jrcs/letsencrypt-nginx-proxy-companion.svg)](https://hub.docker.com/r/jrcs/letsencrypt-nginx-proxy-companion "Click to view the image on Docker Hub")
-[![](https://images.microbadger.com/badges/image/jrcs/letsencrypt-nginx-proxy-companion.svg)](https://hub.docker.com/r/jrcs/letsencrypt-nginx-proxy-companion "Click to view the image on Docker Hub")
-[![](https://img.shields.io/docker/stars/jrcs/letsencrypt-nginx-proxy-companion.svg)](https://hub.docker.com/r/jrcs/letsencrypt-nginx-proxy-companion "Click to view the image on Docker Hub")
-[![](https://img.shields.io/docker/pulls/jrcs/letsencrypt-nginx-proxy-companion.svg)](https://hub.docker.com/r/jrcs/letsencrypt-nginx-proxy-companion "Click to view the image on Docker Hub")
+[![Travis](https://shields.beevelop.com/travis/beevelop/docker-letsencrypt-nginx-proxy-companion.svg?style=flat-square)](https://travis-ci.org/beevelop/docker-letsencrypt-nginx-proxy-companion)
+[![Pulls](https://shields.beevelop.com/docker/pulls/beevelop/letsencrypt-nginx-proxy-companion.svg?style=flat-square)](https://links.beevelop.com/d-letsencrypt-nginx-proxy-companion)
+[![Layers](https://shields.beevelop.com/docker/image/layers/beevelop/letsencrypt-nginx-proxy-companion/latest.svg?style=flat-square)](https://links.beevelop.com/d-letsencrypt-nginx-proxy-companion)
+[![Size](https://shields.beevelop.com/docker/image/size/beevelop/letsencrypt-nginx-proxy-companion/latest.svg?style=flat-square)](https://links.beevelop.com/d-letsencrypt-nginx-proxy-companion)
+[![Release](https://shields.beevelop.com/github/release/beevelop/docker-letsencrypt-nginx-proxy-companion.svg?style=flat-square)](https://github.com/beevelop/docker-letsencrypt-nginx-proxy-companion/releases)
+![Badges](https://shields.beevelop.com/badge/badges-7-brightgreen.svg?style=flat-square)
+[![Beevelop](https://links.beevelop.com/honey-badge)](https://beevelop.com)
 
 letsencrypt-nginx-proxy-companion is a lightweight companion container for the [nginx-proxy](https://github.com/jwilder/nginx-proxy). It allow the creation/renewal of Let's Encrypt certificates automatically. See [Let's Encrypt section](#lets-encrypt) for configuration details.
 
